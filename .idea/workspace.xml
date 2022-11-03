@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c89c242f-5940-40d3-b670-14f6b3e62590" name="Changes" comment="Solved Problems&#10;1]Kth smallest elements&#10;2]Max min of array&#10;3]Max min sum of array">
-      <change afterPath="$PROJECT_DIR$/src/StringProblems/Palidrone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringProblems/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c89c242f-5940-40d3-b670-14f6b3e62590" name="Changes" comment="Solved Problems&#10;1]String : Palidrone&#10;2]String : Remove duplicates">
+      <change afterPath="$PROJECT_DIR$/src/StringProblems/StringisRotateorNot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemoveDuplicates">
+  <component name="RunManager" selected="Application.CountAndSay">
+    <configuration name="CountAndSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringProblems.CountAndSay" />
+      <module name="DSAPROBLEMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MinMaxArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysProblems.MinMaxArray" />
       <module name="DSAPROBLEMS" />
@@ -81,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountAndSay" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.MinMaxArray" />
         <item itemvalue="Application.ReverseString" />
@@ -117,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667404252013</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Solved Problems&#10;1]String : Palidrone&#10;2]String : Remove duplicates">
+      <created>1667441807307</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667441807307</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +154,7 @@
     <MESSAGE value="First Folder Creation" />
     <MESSAGE value="First Problem String ReverseString" />
     <MESSAGE value="Solved Problems&#10;1]Kth smallest elements&#10;2]Max min of array&#10;3]Max min sum of array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved Problems&#10;1]Kth smallest elements&#10;2]Max min of array&#10;3]Max min sum of array" />
+    <MESSAGE value="Solved Problems&#10;1]String : Palidrone&#10;2]String : Remove duplicates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved Problems&#10;1]String : Palidrone&#10;2]String : Remove duplicates" />
   </component>
 </project>
