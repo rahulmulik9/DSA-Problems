@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c89c242f-5940-40d3-b670-14f6b3e62590" name="Changes" comment="Solved Problems&#10;Raja Softwear lab Practice">
-      <change afterPath="$PROJECT_DIR$/src/RAJA/CheckNumberFibonaci2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RAJA/CheckNumberisFibonaci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RAJA/Fibonaci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RAJA/rouh.java" afterDir="false" />
+    <list default="true" id="c89c242f-5940-40d3-b670-14f6b3e62590" name="Changes" comment="Solved Problems&#10;Raja Softwear lab Practice &#10;additional problems 4">
+      <change afterPath="$PROJECT_DIR$/src/RAJA/AngleBetwenhourandMinutehand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RAJA/FindNextPrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RAJA/PrintingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RAJA/SortingandSeccondmaxArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +42,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FirstNonrepaeatingchar">
-    <configuration name="CheckNumberFibonaci2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RAJA.CheckNumberFibonaci2" />
+  <component name="RunManager" selected="Application.AngleBetwenhourandMinutehand">
+    <configuration name="AngleBetwenhourandMinutehand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RAJA.AngleBetwenhourandMinutehand" />
       <module name="DSAPROBLEMS" />
       <extension name="coverage">
         <pattern>
@@ -56,21 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckNumberisFibonaci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RAJA.CheckNumberisFibonaci" />
-      <module name="DSAPROBLEMS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RAJA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fibonaci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RAJA.Fibonaci" />
+    <configuration name="FindNextPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RAJA.FindNextPrimeNumber" />
       <module name="DSAPROBLEMS" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +82,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeArrayWithAlternatre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RAJA.MergeArrayWithAlternatre" />
+    <configuration name="PrintingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RAJA.PrintingNumber" />
+      <module name="DSAPROBLEMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RAJA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingandSeccondmaxArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RAJA.SortingandSeccondmaxArray" />
       <module name="DSAPROBLEMS" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AngleBetwenhourandMinutehand" />
+        <item itemvalue="Application.PrintingNumber" />
+        <item itemvalue="Application.FindNextPrimeNumber" />
+        <item itemvalue="Application.SortingandSeccondmaxArray" />
         <item itemvalue="Application.FirstNonrepaeatingchar" />
-        <item itemvalue="Application.CheckNumberFibonaci2" />
-        <item itemvalue="Application.CheckNumberisFibonaci" />
-        <item itemvalue="Application.Fibonaci" />
-        <item itemvalue="Application.MergeArrayWithAlternatre" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667534347038</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Solved Problems&#10;Raja Softwear lab Practice &#10;additional problems 4">
+      <created>1667542484481</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667542484481</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +197,7 @@
     <MESSAGE value="Solved Problems&#10;1]String : Palidrone&#10;2]String : Remove duplicates" />
     <MESSAGE value="Solved Problems&#10;1]String : CountAndSay&#10;2]String : StringisRotateorNot" />
     <MESSAGE value="Solved Problems&#10;Raja Softwear lab Practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved Problems&#10;Raja Softwear lab Practice" />
+    <MESSAGE value="Solved Problems&#10;Raja Softwear lab Practice &#10;additional problems 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved Problems&#10;Raja Softwear lab Practice &#10;additional problems 4" />
   </component>
 </project>
