@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c89c242f-5940-40d3-b670-14f6b3e62590" name="Changes" comment="Solved Problems&#10;Raja Softwear lab Practice &#10;additional problems 4">
-      <change afterPath="$PROJECT_DIR$/src/RAJA/Arraysum.java" afterDir="false" />
+    <list default="true" id="c89c242f-5940-40d3-b670-14f6b3e62590" name="Changes" comment="Solved Problems&#10;Raja Softwear lab Practice &#10;additional problems 5">
       <change afterPath="$PROJECT_DIR$/src/RAJA/Prob1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/RAJA/Squareroot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RAJA/Timepas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RAJA/ValidSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RAJA/mainm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RAJA/squre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RAJA/MergeArrayWithAlternatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RAJA/MergeArrayWithAlternatre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RAJA/NoOfOwelCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RAJA/NoOfOwelCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RAJA/FindDuplicateinList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RAJA/FindDuplicateinList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +41,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.squre">
-    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RAJA.GFG" />
+  <component name="RunManager" selected="Application.FindDuplicateinList">
+    <configuration name="FindDuplicateinList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RAJA.FindDuplicateinList" />
       <module name="DSAPROBLEMS" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindDuplicateinList" />
         <item itemvalue="Application.squre" />
         <item itemvalue="Application.Timepas" />
         <item itemvalue="Application.Squareroot" />
         <item itemvalue="Application.ValidSub" />
-        <item itemvalue="Application.GFG" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667542484481</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Solved Problems&#10;Raja Softwear lab Practice &#10;additional problems 5">
+      <created>1667635305635</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667635305635</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +204,7 @@
     <MESSAGE value="Solved Problems&#10;1]String : CountAndSay&#10;2]String : StringisRotateorNot" />
     <MESSAGE value="Solved Problems&#10;Raja Softwear lab Practice" />
     <MESSAGE value="Solved Problems&#10;Raja Softwear lab Practice &#10;additional problems 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved Problems&#10;Raja Softwear lab Practice &#10;additional problems 4" />
+    <MESSAGE value="Solved Problems&#10;Raja Softwear lab Practice &#10;additional problems 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved Problems&#10;Raja Softwear lab Practice &#10;additional problems 5" />
   </component>
 </project>
