@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c89c242f-5940-40d3-b670-14f6b3e62590" name="Changes" comment="Solved Problems&#10;Raja Softwear lab Practice &#10;additional problems 4">
-      <change afterPath="$PROJECT_DIR$/src/RAJA/AngleBetwenhourandMinutehand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RAJA/FindNextPrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RAJA/PrintingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RAJA/SortingandSeccondmaxArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RAJA/Arraysum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RAJA/Prob1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RAJA/Squareroot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RAJA/Timepas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RAJA/ValidSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RAJA/mainm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RAJA/squre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RAJA/MergeArrayWithAlternatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RAJA/MergeArrayWithAlternatre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RAJA/NoOfOwelCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RAJA/NoOfOwelCount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +47,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AngleBetwenhourandMinutehand">
-    <configuration name="AngleBetwenhourandMinutehand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RAJA.AngleBetwenhourandMinutehand" />
+  <component name="RunManager" selected="Application.squre">
+    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RAJA.GFG" />
       <module name="DSAPROBLEMS" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindNextPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RAJA.FindNextPrimeNumber" />
+    <configuration name="Squareroot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RAJA.Squareroot" />
       <module name="DSAPROBLEMS" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstNonrepaeatingchar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RAJA.FirstNonrepaeatingchar" />
+    <configuration name="Timepas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RAJA.Timepas" />
       <module name="DSAPROBLEMS" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RAJA.PrintingNumber" />
+    <configuration name="ValidSub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RAJA.ValidSub" />
       <module name="DSAPROBLEMS" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingandSeccondmaxArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RAJA.SortingandSeccondmaxArray" />
+    <configuration name="squre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RAJA.squre" />
       <module name="DSAPROBLEMS" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AngleBetwenhourandMinutehand" />
-        <item itemvalue="Application.PrintingNumber" />
-        <item itemvalue="Application.FindNextPrimeNumber" />
-        <item itemvalue="Application.SortingandSeccondmaxArray" />
-        <item itemvalue="Application.FirstNonrepaeatingchar" />
+        <item itemvalue="Application.squre" />
+        <item itemvalue="Application.Timepas" />
+        <item itemvalue="Application.Squareroot" />
+        <item itemvalue="Application.ValidSub" />
+        <item itemvalue="Application.GFG" />
       </list>
     </recent_temporary>
   </component>

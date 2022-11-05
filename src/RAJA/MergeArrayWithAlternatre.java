@@ -3,7 +3,7 @@ package RAJA;
 public class MergeArrayWithAlternatre {
     public static void main(String[] args) {
         String[] arr = new String[]{"1", "2", "3", "4", "5"};
-        String[] arr2 = new String[]{"a", "b", "c", "d"};
+        String[] arr2 = new String[]{"a", "b", "c"};
 
         int size = arr.length + arr2.length;
         String[] arr3 = new String[size];
