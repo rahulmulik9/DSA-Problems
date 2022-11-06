@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c89c242f-5940-40d3-b670-14f6b3e62590" name="Changes" comment="Solved Problems&#10;DigitAsendingINterger">
-      <change afterPath="$PROJECT_DIR$/src/ArraysProblems/ReverseArrayGroup.java" afterDir="false" />
+    <list default="true" id="c89c242f-5940-40d3-b670-14f6b3e62590" name="Changes" comment="Solved Problem&#10;LongestCommanSuffix">
+      <change afterPath="$PROJECT_DIR$/src/ArraysProblems/UnionOfTwoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringProblems/ValidParentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysProblems/ReverseArrayGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysProblems/ReverseArrayGroup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,26 +41,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReverseArrayGroup">
-    <configuration name="DigitAsendingINterger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RAJA.DigitAsendingINterger" />
+  <component name="RunManager" selected="Application.ValidParentheses">
+    <configuration name="LongestCommanSuffix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringProblems.LongestCommanSuffix" />
       <module name="DSAPROBLEMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RAJA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindDuplicateinList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RAJA.FindDuplicateinList" />
-      <module name="DSAPROBLEMS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RAJA.*" />
+          <option name="PATTERN" value="StringProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +81,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="squre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RAJA.squre" />
+    <configuration name="UnionOfTwoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysProblems.UnionOfTwoArray" />
       <module name="DSAPROBLEMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RAJA.*" />
+          <option name="PATTERN" value="ArraysProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringProblems.ValidParentheses" />
+      <module name="DSAPROBLEMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidParentheses" />
+        <item itemvalue="Application.LongestCommanSuffix" />
+        <item itemvalue="Application.UnionOfTwoArray" />
         <item itemvalue="Application.ReverseArrayGroup" />
         <item itemvalue="Application.PrimeTIllNO" />
-        <item itemvalue="Application.DigitAsendingINterger" />
-        <item itemvalue="Application.FindDuplicateinList" />
-        <item itemvalue="Application.squre" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +224,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667718143740</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Solved Problems&#10;ReverseArrayGroup">
+      <created>1667734147148</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667734147148</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Solved Problem&#10;LongestCommanSuffix">
+      <created>1667741919473</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667741919473</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,6 +266,8 @@
     <MESSAGE value="Solved Problems&#10;ValueMatchtoINdex" />
     <MESSAGE value="Solved Problems&#10;CyclicRotateArray" />
     <MESSAGE value="Solved Problems&#10;DigitAsendingINterger" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved Problems&#10;DigitAsendingINterger" />
+    <MESSAGE value="Solved Problems&#10;ReverseArrayGroup" />
+    <MESSAGE value="Solved Problem&#10;LongestCommanSuffix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved Problem&#10;LongestCommanSuffix" />
   </component>
 </project>

@@ -43,11 +43,6 @@ public class ReverseArrayGroup {
 
         System.out.println("Element group number");
         int key = sc.nextInt();
-
-//        int[] arr=new int[]{1,2,3,4,5,6};
-//        int key=3;
-//        int a=6;
-
         sortByGroup(arr, key, a);
 
     }
