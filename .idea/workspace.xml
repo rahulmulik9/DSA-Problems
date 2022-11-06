@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c89c242f-5940-40d3-b670-14f6b3e62590" name="Changes" comment="Solved Problems&#10;ValueMatchtoINdex">
-      <change afterPath="$PROJECT_DIR$/src/RAJA/DigitAsendingINterger.java" afterDir="false" />
+    <list default="true" id="c89c242f-5940-40d3-b670-14f6b3e62590" name="Changes" comment="Solved Problems&#10;DigitAsendingINterger">
+      <change afterPath="$PROJECT_DIR$/src/ArraysProblems/ReverseArrayGroup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimeTIllNO">
+  <component name="RunManager" selected="Application.ReverseArrayGroup">
     <configuration name="DigitAsendingINterger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RAJA.DigitAsendingINterger" />
       <module name="DSAPROBLEMS" />
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Timepas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RAJA.Timepas" />
+    <configuration name="ReverseArrayGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysProblems.ReverseArrayGroup" />
       <module name="DSAPROBLEMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RAJA.*" />
+          <option name="PATTERN" value="ArraysProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseArrayGroup" />
         <item itemvalue="Application.PrimeTIllNO" />
         <item itemvalue="Application.DigitAsendingINterger" />
         <item itemvalue="Application.FindDuplicateinList" />
         <item itemvalue="Application.squre" />
-        <item itemvalue="Application.Timepas" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +208,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667644438096</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Solved Problems&#10;CyclicRotateArray">
+      <created>1667717085354</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667717085354</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Solved Problems&#10;DigitAsendingINterger">
+      <created>1667718143740</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667718143740</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,6 +248,8 @@
     <MESSAGE value="Solved Problems&#10;Raja Softwear lab Practice" />
     <MESSAGE value="Solved Problems&#10;Raja Softwear lab Practice&#10;PrimeTIllNO" />
     <MESSAGE value="Solved Problems&#10;ValueMatchtoINdex" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved Problems&#10;ValueMatchtoINdex" />
+    <MESSAGE value="Solved Problems&#10;CyclicRotateArray" />
+    <MESSAGE value="Solved Problems&#10;DigitAsendingINterger" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved Problems&#10;DigitAsendingINterger" />
   </component>
 </project>
