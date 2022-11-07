@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c89c242f-5940-40d3-b670-14f6b3e62590" name="Changes" comment="Solved Problem&#10;LongestCommanSuffix">
-      <change afterPath="$PROJECT_DIR$/src/ArraysProblems/UnionOfTwoArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringProblems/ValidParentheses.java" afterDir="false" />
+    <list default="true" id="c89c242f-5940-40d3-b670-14f6b3e62590" name="Changes" comment="Solved Problem&#10;ValidParentheses">
+      <change afterPath="$PROJECT_DIR$/src/ArraysProblems/RemoveDuplicateWIthSotedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraysProblems/ReverseArrayGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysProblems/ReverseArrayGroup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ValidParentheses">
+  <component name="RunManager" selected="Application.SearchInsertPosition">
+    <configuration name="LengthofLastWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringProblems.LengthofLastWord" />
+      <module name="DSAPROBLEMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LongestCommanSuffix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringProblems.LongestCommanSuffix" />
       <module name="DSAPROBLEMS" />
@@ -55,21 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeTIllNO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RAJA.PrimeTIllNO" />
-      <module name="DSAPROBLEMS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RAJA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseArrayGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysProblems.ReverseArrayGroup" />
+    <configuration name="RemoveDuplicateWIthSotedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysProblems.RemoveDuplicateWIthSotedArray" />
       <module name="DSAPROBLEMS" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnionOfTwoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysProblems.UnionOfTwoArray" />
+    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysProblems.SearchInsertPosition" />
       <module name="DSAPROBLEMS" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchInsertPosition" />
+        <item itemvalue="Application.LengthofLastWord" />
+        <item itemvalue="Application.RemoveDuplicateWIthSotedArray" />
         <item itemvalue="Application.ValidParentheses" />
         <item itemvalue="Application.LongestCommanSuffix" />
-        <item itemvalue="Application.UnionOfTwoArray" />
-        <item itemvalue="Application.ReverseArrayGroup" />
-        <item itemvalue="Application.PrimeTIllNO" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667741919473</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Solved Problem&#10;ValidParentheses">
+      <created>1667743959655</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667743959655</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,6 +273,7 @@
     <MESSAGE value="Solved Problems&#10;DigitAsendingINterger" />
     <MESSAGE value="Solved Problems&#10;ReverseArrayGroup" />
     <MESSAGE value="Solved Problem&#10;LongestCommanSuffix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved Problem&#10;LongestCommanSuffix" />
+    <MESSAGE value="Solved Problem&#10;ValidParentheses" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved Problem&#10;ValidParentheses" />
   </component>
 </project>
